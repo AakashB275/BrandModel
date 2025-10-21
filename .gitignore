@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+android/build/
+ios/Pods/
+
+# macOS files
+.DS_Store
+
+# Environment files
+.env
+
+# Misc
+*.swp
